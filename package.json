@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-pro": "6.0.0-alpha2",
+        "sass": "^1.32.8"
+    },
+    "scripts": {
+        "build": "sass input.scss output.scss"
+    }
+}
